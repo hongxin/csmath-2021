@@ -49,7 +49,7 @@ Shi Dong, Binzhi Dong and Shanchen Zou
 ## Homework and the Course Paper
 Please hand out your 1 [course paper](coursepaper/README.md) and [5 selected homework](hw/README.md) (or exercises) by 2021-06-01. 
 
-All homework and exercises must be implemented in Python and with TensorFlow (optionally) 
+All homework and exercises must be implemented in Python and/or with TensorFlow (optionally) 
 
 ## Content
 
