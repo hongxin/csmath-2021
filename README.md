@@ -26,7 +26,7 @@ Shi Dong, Binzhi Dong and Shanchen Zou
 |:----:|:-------------------:|:------------:|:---------------------------------------------------------:|:-----------------------:|
 | ---  |   ---               |  ---         |  The spring semester                                      |   ---                   |
 |  01  |  Introduction       |  2021.03.02  |  [Introduction](pdf/csmath-00-introduction.pdf)           |   [HW01](hw/hw01.md)    |
-|      |                     |              |  [Why data driven](pdf/csmath-01-data-driven-1.pdf)       |                         |
+|      |                     |              |  [Why data driven](pdf/csmath-01-data-driven.pdf)       |                         |
 |      |                     |              |  [Point estimation](pdf/csmath-01-point_estimation.pdf)   |                         |
 |      |                     |              |  [Additional reading](https://engineering.purdue.edu/kak/Trinity.pdf) |             |
 |  02  |  Component Analysis |  2021.03.09  |  [SVD and X-PCA](pdf/csmath-02-component_analysis.pdf)    |   [HW02](hw/hw02.md)    |
