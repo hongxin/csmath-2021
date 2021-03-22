@@ -18,7 +18,7 @@ This mathematics course is designed for the first year Ph.D. students of compute
 Shi Dong, Binzhi Dong and Shanchen Zou
 
 ## Classroom & Time
-+ Room 501, Tian Jia Bing Building, Xi-Xi Campus, Zhejiang University
++ Room 501 (exchange to Room 201), Tian Jia Bing Building, Xi-Xi Campus, Zhejiang University
 + Tuesday, 18:30-21:30
 
 ## Schedule
